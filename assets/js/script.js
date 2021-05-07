@@ -1,4 +1,4 @@
-// Assignment code here
+
 
 
 // Get references to the #generate element
@@ -17,6 +17,19 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 function generatePassword(){
-  return "hello";
-  
+  var passwordLength = "7";
+  //PasswordLength
+  while(passwordLength < "8" && passwordLength > "128") {
+    passwordLength = prompt("How many characters, ranging from a minimum of 8 to 128, in your password would you like?");
+    console.log("Password Length is " + passwordLength);
+    
+  //Cancel
+  if (passwordLength == null) 
+  break;
+
+  if(!parseInt(passwordLength)) {
+    passwordLength = "7";
+    continue; 
+    }  
+  }
 }
