@@ -18,7 +18,7 @@ The generated password will be parsed to the page.
 
 # Product
 
-<img src="https://user-images.githubusercontent.com/80929740/117531382-160ff880-af97-11eb-965f-8fff518f2739.png)" width="200" height="400" alt="Screen shot of Tanner Carter's Portfolio"/>
+<img src="https://user-images.githubusercontent.com/80929740/117531382-160ff880-af97-11eb-965f-8fff518f2739.png" width="600" height="450" alt="Screen shot of Tanner Carter's Password Generator"/>
 
 # Links
 
