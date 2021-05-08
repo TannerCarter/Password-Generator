@@ -1,4 +1,6 @@
-# Password Generator Starter Code
+# Password Generator
+
+#Description
 
 In this weeks challenge of using Javascript, we were tasked with creating a functioning password generator that writes to the page. The hardest part of this project was figuring out the user inputs to function correctly. Once the bugs were fixed, the sails were set and we were ready for take off.
 
