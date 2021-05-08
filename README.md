@@ -6,14 +6,14 @@ In this weeks challenge of using Javascript, we were tasked with creating a func
 
 # Tasks
 
-When clicking the button to generate a password
-A series of prompts for password criteria would popup
-The prompts indicated what would be included in the generated password as well as the length
-The length of the password needed to be at least 8 to 128 characters
-The characters prompted for are lowercase, uppercase, numeric, and/or special characters
-When prompts are answered
-Then a validation occurs to ensure at least one character type is selected
-When all prompts are answered
+When clicking the button to generate a password. <br>
+A series of prompts for password criteria would popup. <br>
+The prompts indicated what would be included in the generated password as well as the length. <br>
+The length of the password needed to be at least 8 to 128 characters. <br>
+The characters prompted for are lowercase, uppercase, numeric, and/or special characters. <br>
+When prompts are answered. <br>
+Then a validation occurs to ensure at least one character type is selected. <br>
+When all prompts are answered. <br>
 The generated password will be parsed to the page.
 
 # Product
